@@ -44,7 +44,7 @@ The system validates every operation — account creation, deposits, and withdra
 Run the script directly to see the banking system in action:
 
 ```bash
-python bank_account_system.py
+python bank_account_simulation_system.py
 ```
 
 The script includes a testing section at the bottom that:
